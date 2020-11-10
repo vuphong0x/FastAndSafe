@@ -9,6 +9,7 @@
     <color name="white">#FFFFFFFF</color>
 
 
-    <color name="yellow_fas">#ffe4c4</color>
+    <color name="yellow_fas">#ffc06f</color>
+    <color name="yellow_light_fas">#fff39f</color>
 
 </resources>
