@@ -2,17 +2,17 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item
         android:id="@+id/nav_home"
-        android:title="Home"
+        android:title="Tổng quan"
         android:icon="@drawable/ic_baseline_home_24"/>
 
     <item
         android:id="@+id/nav_order"
-        android:title="Đơn Hàng"
+        android:title="Đơn hàng"
         android:icon="@drawable/ic_baseline_description_24"/>
 
     <item
         android:id="@+id/nav_product"
-        android:title="Sản Phẩm"
+        android:title="Sản phẩm"
         android:icon="@drawable/ic_baseline_archive_24"/>
 
     <item

@@ -11,6 +11,7 @@
         android:theme="@style/Theme.FastAndSafe">
         <activity android:name=".login.LoginActivity"></activity>
         <activity android:name=".SplashScreenActivity" />
+        <activity android:name=".orders.TaoDonVaGiaoHang"/>
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
