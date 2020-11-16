@@ -28,6 +28,42 @@ public class ThemFragment extends Fragment {
                 startActivity(new Intent(getActivity(), CustomerActivity.class));
             }
         });
+        view.findViewById(R.id.baocao).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(getActivity(),ChucNangKhacActivity.class));
+            }
+        });
+        view.findViewById(R.id.soQuy).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(getActivity(),ChucNangKhacActivity.class));
+            }
+        });
+        view.findViewById(R.id.thongBao).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(getActivity(),ChucNangKhacActivity.class));
+            }
+        });
+        view.findViewById(R.id.uuDai).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(getActivity(),ChucNangKhacActivity.class));
+            }
+        });
+        view.findViewById(R.id.cauHinh).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(getActivity(),ChucNangKhacActivity.class));
+            }
+        });
+        view.findViewById(R.id.hoTro).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(getActivity(),ChucNangKhacActivity.class));
+            }
+        });
         return view;
     }
 }
