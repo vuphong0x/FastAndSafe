@@ -1,4 +1,4 @@
 package com.teamone.fastandsafe;
 
-public class ducdepzai {
+public class duc {
 }
